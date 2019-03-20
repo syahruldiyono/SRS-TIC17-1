@@ -42,4 +42,45 @@
 		</ol>
 	</ol>
 </ol><br>
- 
+ <b><li>Gambaran Umum</li><br></b>
+<ol>
+	<b>2.1 Perspektif produk</b> 
+	<ol>Produk ini akan dijalankan oleh admin, pemilik, pegawai dan user yang
+	memiliki koneksi ke internet. Penggunaan sistem terbagi tiga yaitu antar
+	muka untuk user individu, antar muka untuk admin, dan antar muka untuk
+	Pegawai. Produk ini dapat berjalan pada platform atau sistem operasi 
+	apa saja yang mendukung aplikasi berbasis web.<br> 
+		<ol>
+		2.1.1 Antarmuka sistem  
+			  <ol>Dalam penggunaan, pengguna berinteraksi langsung dengan aplikasi melalui PC / Laptop.</ol>
+		2.1.2 Antarmuka pengguna 
+			  <ol>Perangkat lunak untuk aplikasi ini dibuat dengan menggunkan aplikasi flash.Dimana tampilan didesain dengan menggunakan template yang ada. Perangkat lunak untuk layanan dalam Aplikasi ini dilengkapi dengan menu untuk pengaksesan berbagai fungsi yang disediakan.</ol>
+		2.1.3 Antarmuka perangkat keras
+			  <ol>
+			  Perangkat keras yang dapat digunakan dalam perangkat lunak yang dibuat:<br>
+				1.	PC<br>
+				2.	Monitor VGA mempunyai resolusi minimal 8800 x 1200 pixel.<br>
+				3.	Keyboard dan mouse untuk kegiatan user.<br>
+				4.	Semua perangkat keras yang digunakan merupakan perangkat standar dalam sistem komputer.
+			</ol>
+		2.1.4 Antarmuka perangkat lunak
+			  <ol>Perangkat lunak yang dibutuhkan untuk perpustakaan antara lain:<br>
+				1. Sistem Operasi Windows (XP,Vista,7,Server 2008) dll<br>
+				2. Untuk pengolahan database : MYSQL<br>
+				3. ntuk koneksi Database digunakan XAMPP
+			</ol>
+		2.1.5 Antarmuka komunikasi
+			  <ol>
+			  Proses komunikasi dalam sistem ini menggunakan jaringan lokal, dimana dikontrol oleh komputer server.
+			  </ol>
+		2.1.6 Batasan-batasan memori
+			  <ol>Perangkat lunak hanya dijalankan di Windows (XP,vista, 7, 8, server 2008 dll).
+			  Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan. Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada pada saat ini tanpa adanya user.</ol>
+		2.1.7 Operasi-operasi
+			  <ol>Perangkat lunak dapat dijalankan di PC atau Laptop manapun.</ol>
+		2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi
+		</ol>
+	</ol><br>
+	<b>2.2 Fungsi-fungsi produk<br></b>
+	<ol>Perangkat Lunak Sistem penjualan sparepart dan aksesoris online berbasis website responsife ini mempunyai beberapa fungsi utama, 
+	antara lain: <br>
