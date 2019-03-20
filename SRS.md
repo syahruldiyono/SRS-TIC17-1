@@ -124,3 +124,33 @@
 		2. User yang berhak untuk mengakses sistem ini antara lain adalah admin,
 		   user individu,pegawai dan pemilik.<br>
 		</ol>
+	<b>2.5 Asumsi-asumsi dan ketergantungan/keterkaitan<br></b>
+		<ol>
+		1. User pengguna sistem informasi ini minimal tahu dan dapat mengoperasikan komputer terutama untuk aplikasi berbasis web.<br>
+		2. Tersedia sarana web server dan internet untuk mengakses apllikasi ini.
+		</ol></ol><br>
+<b>
+<li>Kebutuhan lain yang spesifik</li><br>
+</b>
+	<ol>
+		<b>3.1. Kebutuhan Fungsional</b><br>
+		<ol>
+			Kebutuhan fungsional sistem ini terdiri atas beberaoa fungsi utama yang saling berhubungan dan mendukung satu sama lain, yang meliputi fungsi-fungsi sebagai berikut :<br>
+			1. Input barang dari <i>pelapak</i> dan admin.<br>
+			2. Pembelian barang dari user individu / <i>customer</i>.<br>
+			3. Perhitungan jumlah pembelian barang dari <i>user</i> individu / customer.<br>
+			4. Pendaftaran untuk <i>user</i> yang ingin menggunakan fasilitas sistem.<br>
+			5. Kustomisasi penawaran untuk <i>user</i> individu sesuai dengan minat dan kebutuhan <i>user</i> individu.<br>
+			6. Akomodasi untuk <i>user</i> pelapak yang menjual barang dalam jumlah besar.<br>
+		</ol>
+		<b>3.2. Kebutuhan Non Fungsional</b><br>
+		<ol>
+			Dalam sistem informasi ini, kebutuhan yang mendukung kelancaran fungsi-fungsi utama dapat didefinisikan pada Tabel 1.<br>
+			<img src="tabel1.JPG" align="centre" width="100" height="50"><br>
+			Tabel 1. Kebutuhan Non Fungsional<br>
+		</ol>
+		<b>3.3. Kebutuhan Antar Muka</b><br>
+		<ol>
+			Kebutuhan antarmuka dalam program ini antara lain adalah kebutuhan perangkat keras berupa <i>Personal Computer</i> berupa <i>Central Processing Unit(CPU)</i>,<i>mouse, keyboard, monitor,</i> dimana perangkat PC harus terhubung dengan jaringan internet. Sedangkan untuk kebutuhan perangkat lunak yang harus disediakan adalah berupa sebuah web <i>browser</i> seperti Internet Explorer, Mozilla Firefox, dan sebagainya untuk menjalankan aplikasi berbasis web.<br>
+		</ol>
+	</ol>
