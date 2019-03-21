@@ -84,3 +84,43 @@
 	<b>2.2 Fungsi-fungsi produk<br></b>
 	<ol>Perangkat Lunak Sistem penjualan sparepart dan aksesoris online berbasis website responsife ini mempunyai beberapa fungsi utama, 
 	antara lain: <br>
+	<ol>
+		1. Memudahkan proses jual beli barang.<br>
+		2. Memudahkan user untuk menawarkan barang baru atau bekas yang dimiliki.<br>
+		3. Menyediakan informasi mengenai data barang secara akurat.<br>
+		4. Dapat memberikan penawaran khusus untuk user sesuai minat dan    kebutuhan user.<br>
+		5. Memberikan alternatif pembayaran yang lebih banyak.<br></ol>
+	</ol><br>
+	<b>2.3 Karakteristik pengguna<br></b>
+	<ol>
+	Dalam sistem informasi ini, users yang terlibat adalah sebagai berikut:
+		<ol>
+		2.3.2 Pemilik
+			  <ol>
+			  Pemilik bisa memiliki banyak fungsi, sebagai pengelola stok barang,pengelola keuangan, Melihat Data Transaksi harian, dan pengelola sistem.
+			  </ol>
+		2.3.2 Admin
+			  <ol>
+			  Admin bisa memiliki banyak fungsi, sebagai pengelola stok barang,pengelola keuangan, pengelola user, dan pengelola sistem.
+			  </ol>
+		2.3.3 User Individu
+			  <ol>
+			  User Individu memiliki hak akses ke katalog yang disediakan
+			  admin dan hak akses katalog yang dimiliki User Pegawai. User
+			  Individu dapat memilih barang dan membeli barang. 
+			  </ol>
+		2.3.4 Pegawai
+		      <ol>
+			  Pegawai mendapat suatu halaman dinamis dan halaman
+			  administrasi untuk mengelola katalog barang yang dimiliki, dan
+			  mengelola Pembelian terhadap barang yang dimilikinya oleh User Individu
+			  </ol>
+		</ol>
+	</ol><br>
+	<b>2.4 Batasan-batasan<br></b>
+		<ol>
+		1. Untuk masalah pembayaran ditangani oleh pihak ketiga seperti,
+		   perusahaan kartu kredit, paypal dan bank.<br>
+		2. User yang berhak untuk mengakses sistem ini antara lain adalah admin,
+		   user individu,pegawai dan pemilik.<br>
+		</ol>
