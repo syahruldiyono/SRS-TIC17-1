@@ -1,4 +1,4 @@
-
+<center>
 <b>
 <div class="container" style="font-family: times new roman">
 	<div class="header" style="text-align: center">
@@ -24,6 +24,7 @@
 		 <font size="6">POLITEKNIK NEGERI INDRAMAYU<br></font>
 		 <font size="6">2019 </font>
 </b>
+</center>
 	</div>
 </div>
 <br>
